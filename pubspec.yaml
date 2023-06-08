@@ -18,7 +18,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.16.1 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -28,7 +28,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 flutter_localizations:
   sdk: flutter
-  intl: 0.17.0-nullsafety.2
+  intl: 0.17.0
 dependencies:
   flutter:
     sdk: flutter
@@ -40,16 +40,17 @@ dependencies:
   flutter_screenutil: ^5.0.3
   google_sign_in: ^5.4.2
   shared_preferences: ^2.0.9
-  permission_handler: ^10.2.0
-  pin_code_fields: ^7.4.0
-  intl: ^0.17.0
+  #  dio:
+  permission_handler: 7.1.0
+  pin_code_fields: ^7.2.0
+  intl: ^0.18.1
   dropdown_search: ^2.0.1
   url_launcher: ^6.0.9
   lottie: ^1.2.2
   get: ^4.6.5
   change_app_package_name: ^1.1.0
   http: ^0.13.5
-  flutter_cupertino_date_picker: ^1.0.6
+#  flutter_cupertino_date_picker: ^1.0.6
   modal_bottom_sheet: ^2.1.2
   auto_size_text: ^3.0.0
   shimmer: ^2.0.0
@@ -57,39 +58,34 @@ dependencies:
   image_picker: ^0.8.6
   simple_gradient_text: ^1.2.4
   flutter_svg: ^1.1.6
-  calendar_agenda: ^0.0.2+3
+#  calendar_agenda: ^0.0.2+3
   syncfusion_flutter_datepicker: "20.4.44"
   calendar_appbar: ^0.0.6
-  calendar_strip: "^1.0.7"
-  sqflite: ^2.2.7
+  sqflite: ^2.2.6
   carousel_slider: ^4.2.1
   dots_indicator: ^2.1.0
   smooth_page_indicator: ^1.1.0
   extended_wrap: ^0.1.5
-  table_calendar: ^3.0.0
+#  table_calendar: ^3.0.0
   flutter_calendar_carousel: ^2.0.0
-  month_year_picker: ^0.2.0+3
-  month_picker_dialog: ^1.2.0
+#  month_year_picker: ^0.2.0+3
+#  month_picker_dialog: ^1.2.0
   localization: ^2.1.0
-  gradient_progress_indicator: ^1.0.0+5
-  percent_indicator: ^4.2.3
-  step_progress_indicator: ^1.0.2
-  pdf: ^3.9.00
-  intl_phone_field: ^3.1.0
-  flutter_launcher_icons: ^0.13.1
-  open_file: ^3.3.0
-  external_path: ^1.0.1
-  path_provider: ^2.0.14
-  syncfusion_flutter_pdf: ^20.4.54
-  downloads_path_provider_28: ^0.1.2
-  share_plus: ^4.5.3
-  firebase_auth: ^4.6.0
+  flutter_localizations:
+    sdk: flutter
   firebase_phone_auth_handler: ^1.0.8
-  firebase_core: ^2.12.0
-  firebase_core_platform_interface: 4.8.0
+  firebase_core: ^2.13.1
+  syncfusion_flutter_pdf: ^20.4.54
+  pdf: ^3.10.4
+  step_progress_indicator: ^1.0.2
+  open_file: ^3.3.1
+  path_provider: ^2.0.15
+  downloads_path_provider_28: ^0.1.2
+  intl_phone_field: ^3.1.0
+  share_plus: ^7.0.2
+  gradient_progress_indicator: ^1.0.0+5
   pinput: ^2.2.31
-  email_validator: ^2.1.17
-
+  percent_indicator: ^4.2.3
 
 
 dev_dependencies:
@@ -104,8 +100,9 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 
-#dependency_overrides:
-#  firebase_core_platform_interface: 4.5.1
+dependency_overrides:
+  firebase_core_platform_interface: 4.5.1
+  intl: ^0.18.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -137,12 +134,6 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: mulishbold
-      fonts:
-        - asset: fonts/Mulish-Bold.ttf
-    - family: mulishextra
-      fonts:
-        - asset: fonts/Mulish-ExtraBold.ttf
     - family: roboto
       fonts:
         - asset: fonts/Roboto-Black.ttf

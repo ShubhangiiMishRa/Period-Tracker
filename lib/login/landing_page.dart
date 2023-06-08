@@ -149,7 +149,7 @@ class _LandingPageState extends State<LandingPage> {
                         ),
                         TextButton(
                           onPressed: () {
-                            nextPage(context, const LoginPage());
+                            // nextPage(context, const LoginPage());
                           },
                           child: const Text(
                             'Log In',

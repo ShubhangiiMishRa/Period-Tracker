@@ -5,9 +5,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get_state_manager/src/rx_flutter/rx_obx_widget.dart';
 import 'package:intl/intl.dart';
-import 'package:intl/intl.dart';
-import 'package:intl/intl.dart';
-import 'package:nexus/Authentication/signup_page.dart';
+
 import 'package:nexus/api/local_storage.dart';
 import 'package:nexus/main.dart';
 import 'package:nexus/screens/history_page.dart';
@@ -15,14 +13,14 @@ import 'package:nexus/screens/my_profile.dart';
 import 'package:nexus/util/colors.dart';
 import 'package:simple_gradient_text/simple_gradient_text.dart';
 import 'package:step_progress_indicator/step_progress_indicator.dart';
-import 'package:percent_indicator/circular_percent_indicator.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-import 'package:gradient_progress_indicator/gradient_progress_indicator.dart';
-import '../Authentication/login_page.dart';
+// import 'package:percent_indicator/circular_percent_indicator.dart';
+// import 'package:shared_preferences/shared_preferences.dart';
+// import 'package:gradient_progress_indicator/gradient_progress_indicator.dart';
+// import '../Authentication/login_page.dart';
 import '../api/userdata.dart';
 import '../globalVariable.dart';
-import '../login/landing_page.dart';
-import '../login/splash_Screen.dart';
+// import '../login/landing_page.dart';
+// import '../login/splash_Screen.dart';
 import '../screens/periods_log.dart';
 
 class HomePage extends StatefulWidget {
