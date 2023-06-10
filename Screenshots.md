@@ -20,20 +20,20 @@
   <td>Logout popup</td>
   </tr>
   <tr>
-    <td><img src="images/Screenshots/splash screen.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/onbording2.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/signup.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/login.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/otpentered.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/homescreenred.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/homepage2.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/beforeeditdrawer.jpg" width=400 height=700></td> 
-    <td><img src="images/Screenshots/stories.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/calendarpage.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/periodlogpage.jpg" width=400 height=700></td> 
-    <td><img src="images/Screenshots/savelog.jpg" width=400 height=700></td> 
-    <td><img src="images/Screenshots/historypage.jpg" width=400 height=700></td> 
-    <td><img src="images/Screenshots/pdf.jpg" width=400 height=700></td> 
-    <td><img src="images/Screenshots/logoutpopup.jpg" width=400 height=700></td> 
+    <td><img src="images/Screenshots/splash screen.jpg"></td>
+    <td><img src="images/Screenshots/onbording2.jpg"></td>
+    <td><img src="images/Screenshots/signup.jpg" ></td>
+    <td><img src="images/Screenshots/login.jpg" ></td>
+    <td><img src="images/Screenshots/otpentered.jpg" ></td>
+    <td><img src="images/Screenshots/homescreenred.jpg" ></td>
+    <td><img src="images/Screenshots/homepage2.jpg" ></td>
+    <td><img src="images/Screenshots/beforeeditdrawer.jpg" ></td> 
+    <td><img src="images/Screenshots/stories.jpg" ></td>
+    <td><img src="images/Screenshots/calendarpage.jpg" ></td>
+    <td><img src="images/Screenshots/periodlogpage.jpg"></td> 
+    <td><img src="images/Screenshots/savelog.jpg" ></td> 
+    <td><img src="images/Screenshots/historypage.jpg" ></td> 
+    <td><img src="images/Screenshots/pdf.jpg" ></td> 
+    <td><img src="images/Screenshots/logoutpopup.jpg"></td> 
   </tr>
   </table>
