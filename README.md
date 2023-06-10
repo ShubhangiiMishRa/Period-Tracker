@@ -61,42 +61,77 @@ To use the Period Tracker app, follow these steps:
 7. Stories:
 - There is a stories section in the bottom navigation bar where you can read articles related to menstrual cycle
 
-## Screenshots of the UI
+[comment]: <> (## Screenshots of the UI)
 
-<table>
-<tr>
-  <td>Splash Screen</td>
-  <td>Onborading page</td>
-  <td>Signup Page</td>
-  <td>Login Page</td>
-  <td>Verification Page</td>
-  <td>Home Page (ongoing menstrual cycle)</td>
-  <td>Home Page (ongoing fertile window)</td>
-  <td>Side menu</td>
-  <td>Stories page</td>
-  <td>Calendar Page</td>
-  <td>Period logs</td>
-  <td>Period logs</td>
-  <td>History Page</td>
-  <td>Downloaded PDF</td>
-  <td>Logout popup</td>
-  </tr>
-  <tr>
-    <td><img src="images/Screenshots/splash screen.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/onbording2.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/signup.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/login.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/otpentered.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/homescreenred.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/homepage2.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/beforeeditdrawer.jpg" width=400 height=700></td> 
-    <td><img src="images/Screenshots/stories.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/calendarpage.jpg" width=400 height=700></td>
-    <td><img src="images/Screenshots/periodlogpage.jpg" width=400 height=700></td> 
-    <td><img src="images/Screenshots/savelog.jpg" width=400 height=700></td> 
-    <td><img src="images/Screenshots/historypage.jpg" width=400 height=700></td> 
-    <td><img src="images/Screenshots/pdf.jpg" width=400 height=700></td> 
-    <td><img src="images/Screenshots/logoutpopup.jpg" width=400 height=700></td> 
-  </tr>
-  </table>
+[comment]: <> (<table>)
+
+[comment]: <> (<tr>)
+
+[comment]: <> (  <td>Splash Screen</td>)
+
+[comment]: <> (  <td>Onborading page</td>)
+
+[comment]: <> (  <td>Signup Page</td>)
+
+[comment]: <> (  <td>Login Page</td>)
+
+[comment]: <> (  <td>Verification Page</td>)
+
+[comment]: <> (  <td>Home Page &#40;ongoing menstrual cycle&#41;</td>)
+
+[comment]: <> (  <td>Home Page &#40;ongoing fertile window&#41;</td>)
+
+[comment]: <> (  <td>Side menu</td>)
+
+[comment]: <> (  <td>Stories page</td>)
+
+[comment]: <> (  <td>Calendar Page</td>)
+
+[comment]: <> (  <td>Period logs</td>)
+
+[comment]: <> (  <td>Period logs</td>)
+
+[comment]: <> (  <td>History Page</td>)
+
+[comment]: <> (  <td>Downloaded PDF</td>)
+
+[comment]: <> (  <td>Logout popup</td>)
+
+[comment]: <> (  </tr>)
+
+[comment]: <> (  <tr>)
+
+[comment]: <> (    <td><img src="images/Screenshots/splash screen.jpg" width=400 height=700></td>)
+
+[comment]: <> (    <td><img src="images/Screenshots/onbording2.jpg" width=400 height=700></td>)
+
+[comment]: <> (    <td><img src="images/Screenshots/signup.jpg" width=400 height=700></td>)
+
+[comment]: <> (    <td><img src="images/Screenshots/login.jpg" width=400 height=700></td>)
+
+[comment]: <> (    <td><img src="images/Screenshots/otpentered.jpg" width=400 height=700></td>)
+
+[comment]: <> (    <td><img src="images/Screenshots/homescreenred.jpg" width=400 height=700></td>)
+
+[comment]: <> (    <td><img src="images/Screenshots/homepage2.jpg" width=400 height=700></td>)
+
+[comment]: <> (    <td><img src="images/Screenshots/beforeeditdrawer.jpg" width=400 height=700></td> )
+
+[comment]: <> (    <td><img src="images/Screenshots/stories.jpg" width=400 height=700></td>)
+
+[comment]: <> (    <td><img src="images/Screenshots/calendarpage.jpg" width=400 height=700></td>)
+
+[comment]: <> (    <td><img src="images/Screenshots/periodlogpage.jpg" width=400 height=700></td> )
+
+[comment]: <> (    <td><img src="images/Screenshots/savelog.jpg" width=400 height=700></td> )
+
+[comment]: <> (    <td><img src="images/Screenshots/historypage.jpg" width=400 height=700></td> )
+
+[comment]: <> (    <td><img src="images/Screenshots/pdf.jpg" width=400 height=700></td> )
+
+[comment]: <> (    <td><img src="images/Screenshots/logoutpopup.jpg" width=400 height=700></td> )
+
+[comment]: <> (  </tr>)
+
+[comment]: <> (  </table>)
 
