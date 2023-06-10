@@ -63,48 +63,48 @@ To use the Period Tracker app, follow these steps:
 
 ## Screenshots of the UI
 <table>
-<tr>
+<tr style="width=450 height=600">
   <td>Splash Screen</td>
   <td>Onborading page</td>
   <td>Signup Page</td>
   <td>Login Page</td>
   </tr>
-  <tr>
+  <tr style="width=450 height=600">
     <td><img src="images/Screenshots/splash screen.jpg" width=450 height=600></td>
     <td><img src="images/Screenshots/onbording2.jpg" width=450 height=600></td>
     <td><img src="images/Screenshots/signup.jpg" width=450 height=600></td>
     <td><img src="images/Screenshots/login.jpg" width=450 height=600></td>
   </tr>
-<tr>
+<tr style="width=450 height=600">
   <td>Verification Page</td>
   <td>Home Page (ongoing menstrual cycle)</td>
   <td>Home Page (ongoing fertile window)</td>
   <td>Side menu</td>
   </tr>
-  <tr>
+  <tr style="width=450 height=600">
     <td><img src="images/Screenshots/otpentered.jpg" width=450 height=600></td>
     <td><img src="images/Screenshots/homescreenred.jpg" width=450 height=600></td>
     <td><img src="images/Screenshots/homepage2.jpg" width=450 height=600></td>
     <td><img src="images/Screenshots/beforeeditdrawer.jpg" width=450 height=600></td>
   </tr>
-<tr>
+<tr style="width=450 height=600">
   <td>Stories page</td>
   <td>Calendar Page</td>
   <td>Period logs</td>
   <td>Period logs</td>
   </tr>
-  <tr>
+  <tr style="width=450 height=600">
     <td><img src="images/Screenshots/stories.jpg" width=450 height=600></td>
     <td><img src="images/Screenshots/calendarpage.jpg" width=450 height=600></td>
     <td><img src="images/Screenshots/periodlogpage.jpg" width=450 height=600></td> 
     <td><img src="images/Screenshots/savelog.jpg" width=450 height=600></td>
   </tr>
-<tr>
+<tr style="width=450 height=600">
   <td>History Page</td>
   <td>Downloaded PDF</td>
   <td>Logout popup</td>
   </tr>
-  <tr>
+  <tr style="width=450 height=600">
     <td><img src="images/Screenshots/historypage.jpg" width=450 height=600></td> 
     <td><img src="images/Screenshots/pdf.jpg" width=450 height=600></td> 
     <td><img src="images/Screenshots/logoutpopup.jpg" width=450 height=600></td> 
